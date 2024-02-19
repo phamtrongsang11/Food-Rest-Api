@@ -1,0 +1,11 @@
+C:\Users\phamt\Desktop\C#\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net8.0\BuberBreakfast.Contracts.deps.json
+C:\Users\phamt\Desktop\C#\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net8.0\BuberBreakfast.Contracts.dll
+C:\Users\phamt\Desktop\C#\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net8.0\BuberBreakfast.Contracts.pdb
+C:\Users\phamt\Desktop\C#\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamt\Desktop\C#\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.AssemblyInfoInputs.cache
+C:\Users\phamt\Desktop\C#\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.AssemblyInfo.cs
+C:\Users\phamt\Desktop\C#\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Desktop\C#\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.dll
+C:\Users\phamt\Desktop\C#\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\refint\BuberBreakfast.Contracts.dll
+C:\Users\phamt\Desktop\C#\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.pdb
+C:\Users\phamt\Desktop\C#\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\ref\BuberBreakfast.Contracts.dll

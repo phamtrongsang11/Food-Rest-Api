@@ -1,0 +1,20 @@
+POST http://localhost:5089/breakfasts
+Content-Type: application/json
+
+{
+    "name": "Scrambled Egg",
+    "description": "Scrambled Egg",
+    "startDateTime": "2021-01-01T00:00:00",
+    "endDateTime": "2021-01-01T00:00:00",
+    "savory": [
+        "Oatmeal",
+        "Avocado Toast",
+        "Omelette"
+    ],
+    "sweet":[
+        "Cookie"
+    ]
+}
+
+###
+GET http://localhost:5089/Breakfasts/46d12697-1624-4452-8362-38191e1fbdcf
